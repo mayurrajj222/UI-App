@@ -19,10 +19,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.mayurrajj222.UserInformationApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "303c706b-6a85-40ed-acab-e4afc2d5c99c"
+      }
+    },
+    "owner": "teamnexus"
   }
 }
